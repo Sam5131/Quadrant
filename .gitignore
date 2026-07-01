@@ -19,6 +19,13 @@ target/
 *.iml
 *.ipr
 
+### Build artifacts ###
+*.class
+*.jar
+
+### Local config ###
+application-prod.properties
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
